@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-    color: burlywood;
+    color: orchid;
     text-align: center;
     font-size: 2em;
     padding-bottom: 5px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 #status{
-    width: 150px;
+    width: 120px;
     float: inline-end;
 }
 
@@ -41,11 +41,31 @@ h1 {
 }
 
 #consistency{
-    width: 150px;
+    width: 165px;
     float:inline-end;
 }
 
-#{
+#efficiency{
+    width: 170px;
+    float: inline-end;
+}
+
+#minimalist{
+    width: 115px;
+    float: inline-end;
+}
+
+#recognize{
     width: 150px;
+    float: inline-end;
+}
+
+#help{
+    width: 150px;
+    float: inline-end;
+}
+
+#control{
+    width: 165px;
     float: inline-end;
 }
